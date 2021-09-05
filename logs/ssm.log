@@ -1,0 +1,47 @@
+[INFO][main][2021-08-01 10:23:55][design.singleton.LazySingleton1] - main start
+[INFO][main][2021-08-01 10:23:55][design.singleton.LazySingleton1] - main new instance
+[INFO][main][2021-08-01 10:23:56][design.singleton.LazySingleton1] - main start
+[INFO][Thread-0][2021-08-01 10:23:58][design.singleton.LazySingleton1] - Thread-0 start
+[INFO][Thread-1][2021-08-01 10:23:58][design.singleton.LazySingleton1] - Thread-1 start
+[INFO][Thread-0][2021-08-01 10:26:48][design.singleton.LazySingleton1] - Thread-0 start
+[INFO][Thread-0][2021-08-01 10:26:48][design.singleton.LazySingleton1] - Thread-0 new instance
+[INFO][Thread-1][2021-08-01 10:26:48][design.singleton.LazySingleton1] - Thread-1 start
+[INFO][Thread-1][2021-08-01 10:28:15][design.singleton.LazySingleton1] - Thread-1 start
+[INFO][Thread-0][2021-08-01 10:28:15][design.singleton.LazySingleton1] - Thread-0 start
+[INFO][Thread-1][2021-08-01 10:28:16][design.singleton.LazySingleton1] - Thread-1 new instance
+[INFO][Thread-0][2021-08-01 10:28:16][design.singleton.LazySingleton1] - Thread-0 new instance
+[INFO][Thread-0][2021-08-01 10:40:48][design.singleton.LazySingleton1] - Thread-0 start
+[INFO][Thread-1][2021-08-01 10:40:48][design.singleton.LazySingleton1] - Thread-1 start
+[INFO][Thread-1][2021-08-01 10:40:48][design.singleton.LazySingleton1] - Thread-1 new instance
+[INFO][Thread-0][2021-08-01 10:40:48][design.singleton.LazySingleton1] - Thread-0 new instance
+[INFO][Thread-2][2021-08-01 10:41:48][NA/SubstituteLogger] - [Thread-2] start
+[INFO][Thread-1][2021-08-01 10:41:48][design.singleton.LazySingleton1] - Thread-1 start
+[INFO][Thread-0][2021-08-01 10:41:48][design.singleton.LazySingleton1] - Thread-0 start
+[INFO][Thread-0][2021-08-01 10:41:49][design.singleton.LazySingleton1] - Thread-0 new instance
+[INFO][Thread-1][2021-08-01 10:41:49][design.singleton.LazySingleton1] - Thread-1 new instance
+[INFO][Thread-2][2021-08-01 10:41:49][org.slf4j.helpers.SubstituteLogger] - Thread-2 new instance
+[INFO][Thread-3][2021-08-01 10:41:49][org.slf4j.helpers.SubstituteLogger] - Thread-3 start
+[INFO][Thread-1][2021-08-01 10:42:44][design.singleton.LazySingleton1] - Thread-1 start
+[INFO][Thread-0][2021-08-01 10:42:44][design.singleton.LazySingleton1] - Thread-0 start
+[INFO][Thread-0][2021-08-01 10:42:44][design.singleton.LazySingleton1] - Thread-0 new instance
+[INFO][Thread-1][2021-08-01 10:42:44][design.singleton.LazySingleton1] - Thread-1 new instance
+[INFO][Thread-1][2021-08-01 10:43:25][design.singleton.LazySingleton2] - Thread-1 start
+[INFO][Thread-1][2021-08-01 10:43:26][design.singleton.LazySingleton2] - Thread-1 new instance
+[INFO][Thread-0][2021-08-01 10:43:26][design.singleton.LazySingleton2] - Thread-0 start
+[INFO][Thread-0][2021-08-01 10:44:06][design.singleton.LazySingleton2] - Thread-0 start
+[INFO][Thread-0][2021-08-01 10:44:11][design.singleton.LazySingleton2] - Thread-0 new instance
+[INFO][Thread-1][2021-08-01 10:44:11][design.singleton.LazySingleton2] - Thread-1 start
+[INFO][Thread-0][2021-08-01 10:46:10][design.singleton.LazySingleton2] - Thread-0 start
+[INFO][Thread-0][2021-08-01 10:46:15][design.singleton.LazySingleton2] - Thread-0 new instance
+[INFO][Thread-1][2021-08-01 10:46:15][design.singleton.LazySingleton2] - Thread-1 start
+[INFO][Thread-1][2021-08-01 10:46:39][design.singleton.LazySingleton2] - Thread-1 start
+[INFO][Thread-1][2021-08-01 10:46:44][design.singleton.LazySingleton2] - Thread-1 new instance
+[INFO][Thread-0][2021-08-01 10:46:44][design.singleton.LazySingleton2] - Thread-0 start
+[INFO][Thread-0][2021-08-01 11:27:01][design.singleton.LazySingleton4] - first check, start!
+[INFO][Thread-0][2021-08-01 11:27:01][design.singleton.LazySingleton4] - second check, start!
+[INFO][Thread-0][2021-08-01 11:27:06][design.singleton.LazySingleton4] - new instance!
+[INFO][Thread-1][2021-08-01 11:28:13][design.singleton.LazySingleton4] - start!
+[INFO][Thread-1][2021-08-01 11:28:13][design.singleton.LazySingleton4] - first check!
+[INFO][Thread-1][2021-08-01 11:28:13][design.singleton.LazySingleton4] - second check!
+[INFO][Thread-1][2021-08-01 11:28:18][design.singleton.LazySingleton4] - new instance!
+[INFO][Thread-0][2021-08-01 11:28:18][design.singleton.LazySingleton4] - start!
