@@ -1,0 +1,2 @@
+# MavenDemo
+Just a demo
